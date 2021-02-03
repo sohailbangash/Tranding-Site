@@ -1,0 +1,11 @@
+name = Node view count
+description = Module count view of node for user.
+core = 7.x
+
+configure = admin/config/content/nodeviewcount
+
+; Information added by Drupal.org packaging script on 2018-11-12
+version = "8.x-1.0-alpha1"
+core = "8.x"
+project = "nodeviewcount"
+datestamp = "1542009788"
